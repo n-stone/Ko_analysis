@@ -17,7 +17,8 @@
 
 2. 실행:
 
-- streamlit run ko_analysis.py
+- streamlit run ko_graph.py
+- streamlit run ko_wordcloud.py
 
 3. 웹 브라우저 실행:
 
