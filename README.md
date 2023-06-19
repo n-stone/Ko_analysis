@@ -13,12 +13,16 @@
 
 1. 필요한 패키지 설치:
 
-$ pip install -r requirements.txt
+- pip install -r requirements.txt
 
 2. 실행:
 
-$ streamlit run ko_analysis.py
+- streamlit run ko_analysis.py
 
 3. 웹 브라우저 실행:
 
-$ http://localhost:8501 으로 접속
+- http://localhost:8501 으로 접속
+
+4. DEMO
+
+- https://n-stone-ko-analysis-ko-analysis-uxe0a4.streamlit.app/
